@@ -7,7 +7,7 @@ import random
 from datetime import datetime
 
 # 🔥 СЮДА ТВОЙ НОВЫЙ ТОКЕН (ПОСЛЕ СБРОСА)
-TOKEN = "MTUwNDA5NjI5ODMxMDE3MjcwMg.G1u9d0.BnSciJ_zM9jlg5uq5KgVFUIve1LJ90avQ52aI0"
+TOKEN = "TOKEN"
 
 SETTINGS_FILE = 'settings.json'
 
